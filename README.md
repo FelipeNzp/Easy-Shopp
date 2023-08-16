@@ -1,1 +1,1 @@
-# Projeto-reponsivo-git
+# Easy-Shopp
